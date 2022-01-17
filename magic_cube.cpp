@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-using namespace std;r
+using namespace std;
 
 
 void print(int cube[3][3][3]){
